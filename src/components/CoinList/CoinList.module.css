@@ -1,0 +1,13 @@
+.list {
+  width: 100%;
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.item__icon {
+  cursor: pointer;
+}

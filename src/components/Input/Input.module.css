@@ -1,0 +1,8 @@
+.input {
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 20px;
+    color: var(--main-white-text-color);
+    font-family: var(--main-ff);
+}

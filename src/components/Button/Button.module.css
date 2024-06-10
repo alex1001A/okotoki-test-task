@@ -1,0 +1,17 @@
+.button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--main-white-text-color);
+  font: var(--main-font);
+  text-transform: uppercase;
+  border: 2px solid var(--border-grey-color);
+  padding: 10px;
+  border-radius: 10px;
+  transition: all 0.4s ease;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: var(--hover-grey-color);
+}

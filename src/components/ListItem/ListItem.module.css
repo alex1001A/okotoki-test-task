@@ -1,0 +1,6 @@
+.coin {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  font-size: 25px;
+}

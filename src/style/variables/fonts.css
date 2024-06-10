@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --main-ff: "Raleway", sans-serif;
+
+    --main-font: 400 20px/normal var(--main-ff);
+}
