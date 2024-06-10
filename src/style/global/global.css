@@ -43,6 +43,10 @@ body {
     margin-top: 20px;
 }
 
+.form-wrapper__categories:nth-child(n) {
+    cursor: pointer;
+}
+
 .active {
     font-weight: 700;
 }

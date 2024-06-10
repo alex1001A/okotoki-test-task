@@ -98,7 +98,7 @@ export default function App() {
               className={category ? "" : "active"}
               onClick={() => setCategory(false)}
             >
-              all Coins
+              All Coins
             </div>
           </div>
             {!category ? (
