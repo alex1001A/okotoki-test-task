@@ -1,6 +1,6 @@
 import ListItem from '../ListItem/ListItem'
 
-export default function ({ favCoins, removeFromFav }) {
+export default function FavCoinsList({ favCoins, removeFromFav }) {
   return (
     <div className=''>
       {favCoins.map((item) => (
